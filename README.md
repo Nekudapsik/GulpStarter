@@ -1,1 +1,1 @@
-Calif Wordpress Template
+Gulp Template Starter
